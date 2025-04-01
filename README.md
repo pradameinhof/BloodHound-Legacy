@@ -9,6 +9,10 @@ BloodHound Legacy has been replaced by the free BloodHound Community Edition:
 * [Installation instructions](https://bloodhound.specterops.io/get-started/quickstart/community-edition-quickstart)  
 * [Full documentation](https://bloodhound.specterops.io)  
 
+BloodHound was created by [@_wald0](https://www.twitter.com/_wald0), [@CptJesus](https://twitter.com/CptJesus), and [@harmj0y](https://twitter.com/harmj0y).
+
+BloodHound is maintained by the [BloodHound Enterprise](https://bloodhoundenterprise.io/) team.
+
 ## Access to Deprecated Resources
 
 You can still access the deprecated BloodHound Legacy documentation [here](https://bloodhound.readthedocs.io/en/latest/index.html).
