@@ -1,12 +1,9 @@
-.. admonition:: Deprecated Documentation
-   :class: deprecated
+.. note::
+   This documentation applies to Legacy BloodHound and is no longer maintained.
 
-   **This documentation refers to deprecated BloodHound Legacy (version 4.3, released in 2023).** 
+   See up-to-date documentation for BloodHound CE here: `About BloodHound Edges`_
 
-   Please use the `current BloodHound CE Documentation <https://bloodhound.specterops.io/resources/edges/overview>`_.
-
-.. meta::
-   :canonical: https://bloodhound.specterops.io/resources/edges/overview
+.. _About BloodHound Edges: https://support.bloodhoundenterprise.io/hc/en-us/articles/17224136169371
 
 Edges
 =====

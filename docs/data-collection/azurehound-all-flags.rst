@@ -1,12 +1,9 @@
-.. admonition:: Deprecated Documentation
-   :class: deprecated
+.. note::
+   This documentation applies to Legacy BloodHound and is no longer maintained.
 
-   **This documentation refers to deprecated BloodHound Legacy (version 4.3, released in 2023).** 
+   See up-to-date documentation for BloodHound CE here: `All AzureHound Community Edition Flags, Explained`_
 
-   Please use the `current BloodHound CE Documentation <https://bloodhound.specterops.io/collect-data/ce-collection/azurehound-flags>`_.
-
-.. meta::
-   :canonical: https://bloodhound.specterops.io/collect-data/ce-collection/azurehound-flags
+.. _All AzureHound Community Edition Flags, Explained: https://support.bloodhoundenterprise.io/hc/en-us/articles/17481642843803
 
 All AzureHound Flags, Explained
 ===============================
