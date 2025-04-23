@@ -1,8 +1,0 @@
-{% extends "!layout.html" %}
-
-{% block extrahead %}
-  {{ super() }}
-  {% if meta.canonical %}
-    <link rel="canonical" href="{{ meta.canonical }}" />
-  {% endif %}
-{% endblock %}
