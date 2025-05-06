@@ -1,9 +1,13 @@
-.. note::
-   This documentation applies to Legacy BloodHound and is no longer maintained.
+.. admonition:: Deprecated Documentation
+   :class: deprecated
 
-   See up-to-date documentation for BloodHound CE here: `SharpHound CE`_
+   **This documentation refers to deprecated BloodHound Legacy (version 4.3, released in 2023).** 
 
-.. _SharpHound CE: https://support.bloodhoundenterprise.io/hc/en-us/articles/17481151861019
+   Please use the `current BloodHound CE Documentation <https://bloodhound.specterops.io/collect-data/ce-collection/sharphound>`_.
+
+.. meta::
+   :canonical: https://bloodhound.specterops.io/collect-data/ce-collection/sharphound
+
 
 SharpHound
 ==========
