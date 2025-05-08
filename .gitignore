@@ -7,6 +7,3 @@ npm-debug.log
 graph.json
 .DS_Store
 .idea
-Collectors/DebugBuilds/SharpHound.exe
-Collectors/SharpHound.exe
-docs/_build/*
