@@ -8,3 +8,4 @@ graph.json
 .DS_Store
 .idea
 Collectors/DebugBuilds/SharpHound.exe
+docs/_build/*
